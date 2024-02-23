@@ -1,1 +1,1 @@
-In this project we solved various Questions and answers using SQL queries of the IPL Match Data
+In this project we maked a dynamic dashboard in excel of various Ecommerse shopping store sales  data with the help of pivot table and various charts and graphs
